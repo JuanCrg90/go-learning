@@ -4,7 +4,7 @@
 **Goal:** Understand the basics and setup your development environment.
 
 ✅ Install Go and set up your workspace
-❌ Learn about Go's module system (`go mod init`, `go get`)
+✅ Learn about Go's module system (`go mod init`, `go get`)
 ❌ Write a simple "Hello, World!" program
 ❌ Learn about variables, constants, and data types
 ❌ Understand functions, conditionals (`if`, `switch`), and loops (`for`)
