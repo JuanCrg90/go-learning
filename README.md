@@ -3,7 +3,7 @@
 ### **📌 Phase 1: Getting Started (Week 1-2)**
 **Goal:** Understand the basics and setup your development environment.
 
-❌ Install Go and set up your workspace
+✅ Install Go and set up your workspace
 ❌ Learn about Go's module system (`go mod init`, `go get`)
 ❌ Write a simple "Hello, World!" program
 ❌ Learn about variables, constants, and data types
