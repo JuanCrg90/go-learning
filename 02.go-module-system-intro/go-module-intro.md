@@ -174,7 +174,6 @@ Let me know once you finish the exercise so we can review it together!
 
 - [Go Modules Reference](https://go.dev/ref/mod)
 - [Go Blog: Using Go Modules](https://go.dev/blog/using-go-modules)
-- [Practical Guide to Go Modules](https://eli.thegreenplace.net/2020/practical-guide-to-go-modules/)
 - **Book:** *The Go Programming Language* by Alan Donovan & Brian Kernighan (Ch. 10 covers modules)
 
 
