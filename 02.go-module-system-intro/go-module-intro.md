@@ -105,16 +105,16 @@ This removes unnecessary dependencies.
 ## **4. Common Pitfalls & Best Practices**
 
 ### **Common Mistakes**
-❌ **Forgetting to initialize the module** → Always start with `go mod init`.
-❌ **Using `go get` without a version** → Always use `@latest` or specify a version for stability.
-❌ **Deleting `go.sum`** → This file ensures integrity; don’t delete it manually.
-❌ **Committing unnecessary dependencies** → Run `go mod tidy` regularly.
+- ❌ **Forgetting to initialize the module** → Always start with `go mod init`.
+- ❌ **Using `go get` without a version** → Always use `@latest` or specify a version for stability.
+- ❌ **Deleting `go.sum`** → This file ensures integrity; don’t delete it manually.
+- ❌ **Committing unnecessary dependencies** → Run `go mod tidy` regularly.
 
 ### **Best Practices**
-✅ **Use semantic versioning** when installing dependencies (`@v1.2.3`).
-✅ **Run `go mod tidy` before committing** to avoid unused dependencies.
-✅ **Use `replace` directives cautiously** (useful for local module development).
-✅ **Keep dependencies minimal**—only install what you need.
+- ✅ **Use semantic versioning** when installing dependencies (`@v1.2.3`).
+- ✅ **Run `go mod tidy` before committing** to avoid unused dependencies.
+- ✅ **Use `replace` directives cautiously** (useful for local module development).
+- ✅ **Keep dependencies minimal**—only install what you need.
 
 ---
 
