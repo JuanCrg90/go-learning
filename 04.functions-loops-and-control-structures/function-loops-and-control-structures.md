@@ -108,39 +108,7 @@ default:
 
 ---
 
-### **3️⃣ Code Examples**
-
-#### Example 1: Simple Function
-```go
-func greet(name string) {
-    fmt.Println("Hello,", name)
-}
-```
-
-#### Example 2: Loop over Slice
-```go
-numbers := []int{10, 20, 30}
-for _, num := range numbers {
-    fmt.Println(num)
-}
-```
-
-#### Example 3: Switch with Fallback
-```go
-x := 3
-switch x {
-case 1:
-    fmt.Println("One")
-case 2:
-    fmt.Println("Two")
-default:
-    fmt.Println("Other")
-}
-```
-
----
-
-### **4️⃣ Common Pitfalls & Best Practices**
+### **3️⃣  Common Pitfalls & Best Practices**
 
 - ✅ **Use `range` for clean iteration over slices, maps, and arrays.**
 - ✅ **Return multiple values for errors instead of exceptions.**
@@ -150,7 +118,7 @@ default:
 
 ---
 
-### **5️⃣ Hands-on Exercise**
+### ** 4️⃣ Hands-on Exercise**
 
 👉 **Challenge**: Write a program that:
 
@@ -166,11 +134,9 @@ Example output:
 ...
 ```
 
-When you're done, share your code and I’ll review it! 💡
-
 ---
 
-### **6️⃣ Further Reading & Resources**
+### **5️⃣ Further Reading & Resources**
 
 - 📖 [Go Tour – Functions](https://go.dev/tour/moretypes/1)
 - 📖 [Effective Go – Control Structures](https://golang.org/doc/effective_go.html#control-structures)
