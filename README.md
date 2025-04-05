@@ -6,7 +6,7 @@
 - ✅ Install Go and set up your workspace
 - ✅ Learn about Go's module system (`go mod init`, `go get`)
 - ✅ Learn about variables, constants, and data types
-- ⚠️  Understand functions, conditionals (`if`, `switch`), and loops (`for`)
+- ✅ Understand functions, conditionals (`if`, `switch`), and loops (`for`)
 - ❌ Explore Go’s unique approach to error handling (`error` type)
 - ❌ Play around with Go Playground ([play.golang.org](https://play.golang.org))
 
