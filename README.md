@@ -7,8 +7,7 @@
 - ✅ Learn about Go's module system (`go mod init`, `go get`)
 - ✅ Learn about variables, constants, and data types
 - ✅ Understand functions, conditionals (`if`, `switch`), and loops (`for`)
-- ❌ Explore Go’s unique approach to error handling (`error` type)
-- ❌ Play around with Go Playground ([play.golang.org](https://play.golang.org))
+- ✅ Explore Go’s unique approach to error handling (`error` type)
 
 📚 **Resources**:
 - [A Tour of Go](https://tour.golang.org)
@@ -19,7 +18,7 @@
 ### **📌 Phase 2: Intermediate Golang (Week 3-4)**
 **Goal:** Learn Go's data structures, interfaces, and memory management.
 
-- ❌ Structs & Methods
+- ✅ Structs & Methods
 - ❌ Understanding interfaces and type assertions
 - ❌ Working with slices, maps, and pointers
 - ❌ Working with files (`os`, `io`)
