@@ -19,7 +19,7 @@
 **Goal:** Learn Go's data structures, interfaces, and memory management.
 
 - ✅ Structs & Methods
-- ❌ Understanding interfaces and type assertions
+- ✅ Understanding interfaces and type assertions
 - ❌ Working with slices, maps, and pointers
 - ❌ Working with files (`os`, `io`)
 - ❌ JSON encoding & decoding (`encoding/json`)
