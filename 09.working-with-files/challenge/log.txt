@@ -1,0 +1,3 @@
+Log started
+User: Juan Carlos
+Status: Active
