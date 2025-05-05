@@ -22,7 +22,7 @@
 - ✅ Understanding interfaces and type assertions
 - ✅ Working with slices, maps, and pointers
 - ✅ Working with files (`os`, `io`)
-- ❌ JSON encoding & decoding (`encoding/json`)
+- ✅ JSON encoding & decoding (`encoding/json`)
 - ❌ Writing unit tests with the `testing` package
 
 📚 **Resources**:
