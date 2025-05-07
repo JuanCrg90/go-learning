@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Viaje al centro de la tierra",
+      "author": "Julio Verne",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "De la tierra a la luna",
+      "author": "Julio Verne",
+      "published": true
+    }
+  ]
+}
