@@ -37,7 +37,7 @@
 **Goal:** Understand goroutines, channels, and performance optimization.
 
 - ✅ Goroutines (lightweight threads)
-- ❌ Channels (for inter-goroutine communication)
+- ✅ Channels (for inter-goroutine communication)
 - ❌ `select` statement (handling multiple channels)
 - ❌ `sync` package (mutex, wait groups)
 - ❌ Context (`context` package for timeouts and cancellations)
