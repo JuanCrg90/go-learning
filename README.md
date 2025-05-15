@@ -40,7 +40,7 @@
 - ✅ Channels (for inter-goroutine communication)
 - ✅ `select` statement (handling multiple channels)
 - ✅ `sync` package (mutex, wait groups)
-- ❌ Context (`context` package for timeouts and cancellations)
+- ✅ Context (`context` package for timeouts and cancellations)
 - ❌ Memory management & escape analysis
 
 📚 **Resources**:
