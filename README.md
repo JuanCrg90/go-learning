@@ -41,7 +41,7 @@
 - ✅ `select` statement (handling multiple channels)
 - ✅ `sync` package (mutex, wait groups)
 - ✅ Context (`context` package for timeouts and cancellations)
-- ❌ Memory management & escape analysis
+- ✅ Memory management & escape analysis
 
 📚 **Resources**:
 - [Go Concurrency Patterns](https://blog.golang.org/concurrency-patterns-timing-out-and)
