@@ -44,7 +44,9 @@
 - ✅ Memory management & escape analysis
 
 📚 **Resources**:
-- [Go Concurrency Patterns](https://blog.golang.org/concurrency-patterns-timing-out-and)
+- [Go Concurrency Patterns](https://go.dev/talks/2012/concurrency.slide#1)
+- [Rob Pike - 'Concurrency Is Not Parallelism'](https://vimeo.com/49718712)
+
 
 🚀 **Project:**
 - Build a **web scraper** that fetches data concurrently from multiple sources.
