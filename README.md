@@ -56,7 +56,7 @@
 ### **📌 Phase 4: Web Development & APIs (Week 7-8)**
 **Goal:** Learn how to build REST APIs in Go.
 
-- ❌ `net/http` for building web servers
+- ✅ `net/http` for building web servers
 - ❌ Routing & middleware (using **Gin** or **Echo**)
 - ❌ Handling requests, responses, and JSON
 - ❌ Working with databases (**PostgreSQL or MySQL** via `database/sql` or **GORM**)
